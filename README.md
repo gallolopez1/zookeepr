@@ -1,4 +1,4 @@
-# zookeepr
+# Zookeepr
 
 ## User Story
 `AS A small business owner
