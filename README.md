@@ -1,15 +1,18 @@
 # Zookeepr
 
 ## User Story
-`AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete`
+`Here's the scenario: the local zoo has received funding to build a new online catalog, and they've asked you to create a web server for a front-end application they’re developing, called Zoo Keepr. This site’s data will be stored on the server you create. This will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.`
 
 ## Instructions
-Create a web server using the Express.js framework and add it to a front-end application that the local zoo is developing, called Zoo Keepr. The site’s data will live on the server you build so that anyone can access it without having to download it. You’ll also deploy your application to Heroku, a cloud application platform that allows you to deploy applications with servers to a webpage.
+* Set up and run a Node.js web server using Express.js
+
+* Handle two types of GET requests using parameters
+
+* Make the application production-ready and deploy it on Heroku
 
 ## Built With
 * JS
+* Heroku
 
 ## Links
 * 🌎 [Live Github Page](https://git.heroku.com/murmuring-bastion-49339.git/)
